@@ -14,7 +14,7 @@ Esta estructura en nube permite que el sistema soporte picos de uso, mantenga el
 
 ---
 ## ARQUITECTURA DE EL DESPLIEGUE EN AWS
-![aacd53d98a6997bdf88fd6f1566ff99f.png](:/ba5c6428f9a14e5aaac6bfe829c1dd8b)
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/42c104a8-9c63-4e19-b246-e990ce863655" />
 
 ## Pasos Realizados en el Despliegue
 ### 1. Configuración de la base de datos (Amazon RDS – PostgreSQL)
